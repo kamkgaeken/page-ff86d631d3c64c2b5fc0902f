@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f2d050bdbce775d4937d2314",
+  "owner": "kamkgaeken",
+  "repo": "page-ff86d631d3c64c2b5fc0902f",
+  "title": "风驰云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ff86d631d3c64c2b5fc0902f",
+      "a": "风驰云",
+      "b": "稳定全球clash加速器",
+      "entity": "风驰云",
+      "brand": "风驰云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "415da638cd8d0d7da3f9d4991e4fa99079e868120eabc162e62c976cd8914bc9",
+      "content": {
+        "primary_entity": "风驰云",
+        "keyword1": "风驰云",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择合适客户端，依订阅文档完成配置。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "轻松连接全球节点",
+          "AI_DESCRIPTION": "，专注于多设备订阅与节点选择，提供基础版、旗舰版与团队版三档套餐，分别适配轻量浏览、流媒体与游戏加速、以及团队多设备协作场景，按流量与在线设备数灵活选择。",
+          "AI_FEATURES_INTRO": "按设备数量与流量需求挑套餐，订阅周期越长年均成本越低。",
+          "AI_FEATURES_TITLE": "套餐与设备匹配",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，支持 3 台设备同时在线，适合手机与电脑日常使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备同时在线，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备同时在线，可定制企业路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "进阶体验",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "从选服务到完成订阅配置，三步即可上手风驰云。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "风驰云面向需要多设备接入的用户，提供基础版、旗舰版与团队版三档订阅，依据流量与在线设备数划分，适配手机、电脑与路由器等常见终端。",
+          "AI_HERO_SUBTITLE": "多设备订阅灵活选",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "多设备同时在线",
+          "AI_HIGHLIGHT_3": "IPLC 游戏加速线路",
+          "AI_PLANS_INTRO": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月，按年付更划算。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据日常流量与在线设备数，在基础版、旗舰版与团队版之间选定一档。",
+          "AI_STEP_TEXT_2": "核对所选套餐支持的设备数量与流量额度，确认满足当前使用需求。",
+          "AI_STEP_TEXT_3": "参照对应客户端文档，将订阅链接导入客户端并完成节点配置。",
+          "AI_STEP_TITLE_1": "选定服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "风驰云多设备订阅",
+          "AI_FAQ_ANSWER_1": "基础版适合单人轻度使用，每月 100GB 流量、3 台设备；旗舰版给到 300GB 与 5 台设备，并带 IPLC 专线，适合流媒体和游戏；团队版 1000GB、20 台设备，适合多人共享。",
+          "AI_FAQ_ANSWER_2": "风驰云套餐按同时在线设备数量区分：基础版 3 台、旗舰版 5 台、团队版 20 台。如果家里有多部手机、平板和电脑，建议直接选择设备数匹配的套餐。",
+          "AI_FAQ_ANSWER_3": "可以，三个套餐都提供按年付方案，基础版一年 ¥150，旗舰版一年 ¥350，团队版一年 ¥850，长期使用更划算，可按需选择。",
+          "AI_FAQ_ANSWER_4": "先确认设备系统，再选择对应客户端，如 Windows、macOS、Android、iOS 等，然后在客户端内粘贴风驰云订阅链接完成导入，节点会自动同步。",
+          "AI_FAQ_ANSWER_5": "日常网页浏览选基础版即可；如果常看高清流媒体或玩外服游戏，旗舰版的 IPLC 专线和更大流量更合适；多人团队共享则直接选团队版。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_3": "套餐可以按年付费吗？",
+          "AI_FAQ_QUESTION_4": "如何在客户端导入订阅？",
+          "AI_FAQ_QUESTION_5": "流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "cinaoliu.cn",
+    "host": "cinaoliu.cn"
+  },
+  "file_hashes": {
+    "index.html": "ee0e8e9a65a361a008922cfe004be1713262f953fbd78d40231e57306221a47e",
+    "sitemap.xml": "1448aabd618fa9d96533224dd5bb172c3f99419f24acfa9c84c2427b0ac4c2cd",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "662bea123e89bdd3d5fd681b6ade4894b441c4d1f706814231d3890f91ed2afe",
+    "robots.txt": "a409107fcbb75116505f606c84383200c165f565970d7e16ab32b46be8112d8b",
+    "0ea37841c7c16d8787318a0cbe4551c8.txt": "cb4217ad9e2041df1727ce0e2aec6f9880c88d18bf0577d7aac513b37b49a058"
+  },
+  "revision": "1167f21d0291bc19835f2aca059ec51cddecb64a46d72343dc476ad4e6fac486"
+}
